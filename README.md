@@ -6,4 +6,5 @@ CS361
 
 2. RECEIVE DATA - When Button is pressed generating the inspirational quote
 
-![UML](https://user-images.githubusercontent.com/79479173/218665299-125dd74b-8a77-458f-86c3-68a164e8f0e5.png)
+
+![DxQLjFq](https://user-images.githubusercontent.com/79479173/218665533-80de19cf-e449-4078-9093-57193d312945.png)
